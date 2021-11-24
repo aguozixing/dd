@@ -17,7 +17,7 @@ public class AppTest
      */
     public AppTest( String testName )
     {
-    	system.out.println("-----");
+    	system.out.println("-----1");
         super( testName );
     }
 
